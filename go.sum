@@ -22,6 +22,8 @@ github.com/atlassian/go-artifactory v1.2.0 h1:oTZ/Pd8Zh7KXarN2buwb4F9a94dlYG0RJX
 github.com/atlassian/go-artifactory v1.2.0/go.mod h1:FjAu/rogV0ykmtk8TKPjFA5NuBl0b8LoWoXJONV7z4Q=
 github.com/atlassian/go-artifactory/v2 v2.1.1 h1:BAIEjTP4y5z26Pfi4PKExYP5b4iC7fc2X4BHExGYFnU=
 github.com/atlassian/go-artifactory/v2 v2.1.1/go.mod h1:jVNrVVRz2g8ZEr2EcOUJ2879eQuywCD43hytKn1D9m8=
+github.com/atlassian/terraform-provider-artifactory v1.5.0 h1:Pp2W3tmseRuI84Ano/+MsssW6Suo6nKkjZpHihAob30=
+github.com/atlassian/terraform-provider-artifactory v1.5.0/go.mod h1:C+uXiCJtyxlxS/hnt60SSCzzlnzlutKDvpyHmyeKN7k=
 github.com/aws/aws-sdk-go v1.14.31 h1:amhorvKh1zNxo9YCntvA5uDmgw+pCYXOp4xO8WS1oDg=
 github.com/aws/aws-sdk-go v1.14.31/go.mod h1:mFuSZ37Z9YOHbQEwBWztmVzqXrEkub65tZoCYDt7FT0=
 github.com/beevik/etree v0.0.0-20171015221209-af219c0c7ea1/go.mod h1:r8Aw8JqVegEf0w2fDnATrX9VpkMcyFeM0FhwO62wh+A=
@@ -47,6 +49,8 @@ github.com/dgrijalva/jwt-go v0.0.0-20160617170158-f0777076321a/go.mod h1:E3ru+11
 github.com/dnaeon/go-vcr v0.0.0-20170218072653-87d4990451a8/go.mod h1:aBB1+wY4s93YsC3HHjMBMrwTj2R9FHDzUr9KyGc8n1E=
 github.com/dylanmei/iso8601 v0.1.0/go.mod h1:w9KhXSgIyROl1DefbMYIE7UVSIvELTbMrCfx+QkYnoQ=
 github.com/dylanmei/winrmtest v0.0.0-20170819153634-c2fbb09e6c08/go.mod h1:VBVDFSBXCIW8JaHQpI8lldSKfYaLMzP9oyq6IJ4fhzY=
+github.com/fiveai/go-artifactory/v2 v2.3.0 h1:+4/W9RuhJT0k5lQGRTomQgH+hZ/P6i2yaIrM90/sp3g=
+github.com/fiveai/go-artifactory/v2 v2.3.0/go.mod h1:jVNrVVRz2g8ZEr2EcOUJ2879eQuywCD43hytKn1D9m8=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
 github.com/go-ini/ini v1.25.4 h1:Mujh4R/dH6YL8bxuISne3xX2+qcQ9p0IxKAP6ExWoUo=
 github.com/go-ini/ini v1.25.4/go.mod h1:ByCAeIL28uOIIG0E3PJtZPDL8WnHpFKFOtgjp+3Ies8=

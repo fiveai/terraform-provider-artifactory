@@ -65,6 +65,7 @@ func Provider() terraform.ResourceProvider {
 			"artifactory_user":               resourceArtifactoryUser(),
 			"artifactory_permission_target":  resourceArtifactoryPermissionTarget(),
 			"artifactory_replication_config": resourceArtifactoryReplicationConfig(),
+			"artifactory_access_token":       resourceArtifactoryAccessToken(),
 			// Deprecated. Remove in V3
 			"artifactory_permission_targets": resourceArtifactoryPermissionTargets(),
 		},
